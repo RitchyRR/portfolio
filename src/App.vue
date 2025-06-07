@@ -1,6 +1,6 @@
 <script setup>
 // Profile Picture
-import profilePicture from "./assets/profileFade2_small2.jpg?w=300";
+import profilePicture from "./assets/profileFade2_small3.jpg?w=400";
 
 // Language Toggle
 import { ref, watch } from "vue";
