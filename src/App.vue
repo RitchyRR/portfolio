@@ -1,6 +1,8 @@
 <script setup>
-import signature from "./assets/profileFade2_small.jpg";
+// Profile Picture
+import profilePicture from "./assets/profileFade2_small2.jpg?w=300";
 
+// Language Toggle
 import { ref, watch } from "vue";
 import { useI18n } from "vue-i18n";
 
@@ -26,7 +28,11 @@ watch(
     <div class="sidebar">
       <div>
         <div class="profile-section">
-          <img :src="signature" alt="Profile picture" class="profile-picture" />
+          <img
+            :src="profilePicture"
+            alt="Profile picture"
+            class="profile-picture"
+          />
           <h2 class="profile-name">Richard Raetzer</h2>
         </div>
 
