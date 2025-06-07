@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Redirecting...</title>
+    <script>
+      // Extract the current path from the full URL
+      const path = window.location.pathname.replace(/^\/portfolio/, "");
+
+      // Rebuild the correct URL including query and hash
+      const newUrl =
+        "/portfolio/index.html" +
+        path +
+        window.location.search +
+        window.location.hash;
+
+      // Redirect to that URL (which Vue router will handle)
+      window.location.replace(newUrl);
+    </script>
+  </head>
+  <body>
+    <p>Redirecting...</p>
+  </body>
+</html>
