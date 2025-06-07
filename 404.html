@@ -1,20 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8" />
-    <title>Redirecting...</title>
-    <script>
-      // Get full path, query, and hash
-      const path = location.pathname.replace(/^\/portfolio/, "");
-      const search = location.search || "";
-      const hash = location.hash || "";
-
-      // Redirect to the base app entry + original path
-      const newUrl = "/portfolio/" + path + search + hash;
-      location.replace(newUrl);
-    </script>
+    <meta http-equiv="refresh" content="0; url=/portfolio/" />
   </head>
-  <body>
-    <p>Redirecting...</p>
-  </body>
+  <body></body>
 </html>
