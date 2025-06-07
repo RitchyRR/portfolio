@@ -1,0 +1,94 @@
+{
+  "nav": {
+    "home": "Home",
+    "cv": "CV",
+    "career": "Career",
+    "skills": "Skills",
+    "projects": "Published Projects",
+    "projectsPrivate": "Private Projects"
+  },
+  "contact": {
+    "address": "Address",
+    "address_val": "Aachen, Germany",
+    "phone": "Phone",
+    "email": "Email",
+    "birthdate": "Year of birth",
+    "birthplace": "Nationality",
+    "birthplace_val": "German"
+  },
+
+  "home": {
+    "text1": "Hello, my name is Richard Raetzer, Junior Developer at Inform GmbH.",
+    "b_download_cv": "Download CV (deutsch, public version)",
+    "text2": "Has my profile piqued your interest and you want my CV with the full contact information?<br /> Write me at "
+  },
+
+  "career": {
+    "t_career": "Career",
+    "t_academic": "Academic Background",
+    "academic": {
+      "1-1": "Studies at <strong>FH Aachen</strong>, Aachen",
+      "1-2": "Degree: B.Sc. in Computer Science",
+      "2-1": "School at <strong>Inda Gymnasium</strong>, Aachen",
+      "2-2": "Degree: Abitur (German A-levels)"
+    },
+    "t_professional": "Professional Experience",
+    "professional": {
+      "1-1": "Student job at <strong>INFORM GmbH</strong>, Aachen",
+      "1-2": "Programming in C++(Visual Studio) as Frontend Developer",
+      "2-1": "Internship semester at <strong>INFORM GmbH</strong>, Aachen",
+      "2-2": "Programming in C++ (Visual Studio) as Frontend Developer",
+      "3-1": "Student internship at <strong>Equens Worldline</strong>, Aachen",
+      "3-2": "Programming in Java (Eclipse)"
+    },
+    "text": "After my internship semester at Inform GmbH, I continued my work as a frontend developer there in the form of a student job until now. <br /> Now, after successfully completing my bachelor's degree in computer science (grade 1.6) at the University of Applied Sciences Aachen, I am ready to take the next step and am looking forward to gaining more experience in the industry.",
+    "present": "Present"
+  },
+
+  "skills": {
+    "t_skills": "Skills",
+    "t_languages": "Languages",
+    "languages": {
+      "1-1": "German",
+      "1-2": "English",
+      "2-1": "Native speaker",
+      "2-2": "Fluent"
+    },
+    "t_programmingLanguages": "Programming Languages",
+    "programmingLanguages": {
+      "1-1": "C++",
+      "1-2": "C#",
+      "1-3": "Dart (Flutter)",
+      "1-4": "JavaScript (Vue, Vite)",
+      "1-5": "Java",
+      "1-6": "PHP (Laravel)",
+      "2-1": "Advanced proficiency",
+      "2-2": "Advanced proficiency",
+      "2-3": "Advanced proficiency",
+      "2-4": "Basic knowledge",
+      "2-5": "Basic knowledge",
+      "2-6": "Basic knowledge"
+    },
+    "t_tools": "Tools & Applications",
+    "tools": {
+      "1-1": "Microsoft Office / Google Office",
+      "1-2": "Photoshop",
+      "1-3": "VS Code / Visual Studio",
+      "1-4": "Unity",
+      "1-5": "Blender",
+      "2-1": "Advanced proficiency",
+      "2-2": "Advanced proficiency",
+      "2-3": "Advanced proficiency",
+      "2-4": "Advanced proficiency",
+      "2-5": "Intermediate proficiency"
+    },
+    "text1": "As a junior frontend developer, I apply the theoretical principles of functional design to make complex user interfaces easy to understand and straightforward. I have already developed user interfaces in C++ (at Inform), C# (in Unity projects), Qt (for my bachelor practice project), dart (for my own flutter app) and JavaScript in Vue (for a small interdisciplinary project and this very website), as well as other general basics during my studies with HTML and php.<br /> My time at Inform GmbH has given me experience for everyday working life, dealing with large code solutions and designing business software, with a greater focus on compact design and workflow.",
+    "text2": "I work in a structured manner and approach complex tasks with well thought-out planning before implementation. I am adaptive and motivated to develop solutions as part of a team. As a front-end developer, I have already gained positive professional experience working with back-end developers. I am happy to contribute my own ideas that have already improved projects while always leaving final decisions to the team or supervisors. In addition to German, I am also fluent in English and can create documentation and designs in both languages, as well as give presentations and hold in-depth discussions."
+  },
+
+  "projects": {
+    "t_projects": "Published Projects",
+    "b_docScanner": "Play Store, Offline Document Scanner",
+    "b_website": "GitHub, This Website"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "cv": "Lebenslauf",
+    "career": "Karriere",
+    "skills": "Kenntnisse",
+    "projects": "Veröffentlichte Projekte",
+    "projectsPrivate": "Private Projekte"
+  },
+  "contact": {
+    "address": "Adresse",
+    "address_val": "Aachen, Deutschland",
+    "phone": "Telefon",
+    "email": "E-Mail",
+    "birthdate": "Geburtsjahr",
+    "birthplace": "Nationalität",
+    "birthplace_val": "Deutsch"
+  },
+
+  "home": {
+    "text1": "Hallo, mein Name ist Richard Raetzer, Junior-Entwickler bei Inform GmbH.",
+    "b_download_cv": "Lebenslauf herunterladen (deutsch, öffentliche Version)",
+    "text2": "Hat mein Profil Ihr Interesse geweckt und Sie wollen meinen Lebenslauf mit vollständigen Kontaktinformationen?<br /> Dann schicken Sie mir einfach eine E-Mail an "
+  },
+
+  "career": {
+    "t_career": "Karriere",
+    "t_academic": "Akademische Laufbahn",
+    "academic": {
+      "1-1": "Studium an der <strong>FH Aachen</strong>, Aachen",
+      "1-2": "Abschluss: Informatik B.Sc. ",
+      "2-1": "Schulzeit am <strong>Inda Gymnasium</strong>, Aachen ",
+      "2-2": "Abschluss: Abitur"
+    },
+    "t_professional": "Berufliche Laufbahn",
+    "professional": {
+      "1-1": "Studentenjob bei der <strong>INFORM GmbH</strong>, Aachen ",
+      "1-2": "Programmierung in C++ (Visual Studio) als Frontend Entwickler",
+      "2-1": "Praxissemester bei der <strong>INFORM GmbH</strong>, Aachen",
+      "2-2": "Programmierung in C++ (Visual Studio) als Frontend Entwickler",
+      "3-1": "Schülerpraktikum bei <strong>Equens Worldline</strong>, Aachen",
+      "3-2": "Programmierung in Java (Eclipse)"
+    },
+    "text": "Nach meinem Praxissemester bei Inform GmbH habe ich meine Tätigkeit als Frontend-Entwickler dort als Studentenjob bis jetzt fortgesetzt. <br /> Jetzt, nach meinem erfolgreichen Bachelorabschluss in Informatik (Note 1,6) an der FH Aachen, bin ich bereit den nächsten Schritt zu gehen und freue mich darauf, weitere Erfahrungen in der Branche zu sammeln.",
+    "present": "Heute"
+  },
+
+  "skills": {
+    "t_skills": "Kentnisse",
+    "t_languages": "Sprachen",
+    "languages": {
+      "1-1": "Deutsch",
+      "1-2": "Englisch",
+      "2-1": "Muttersprache",
+      "2-2": "Fließend"
+    },
+    "t_programmingLanguages": "Programmiersprachen",
+    "programmingLanguages": {
+      "1-1": "C++",
+      "1-2": "C#",
+      "1-3": "Dart (Flutter)",
+      "1-4": "JavaScript (Vue, Vite)",
+      "1-5": "Java",
+      "1-6": "PHP (Laravel)",
+      "2-1": "Sehr gute Kenntnisse",
+      "2-2": "Sehr gute Kenntnisse",
+      "2-3": "Sehr gute Kenntnisse",
+      "2-4": "Grundlegende Kenntnisse",
+      "2-5": "Grundlegende Kenntnisse",
+      "2-6": "Grundlegende Kenntnisse"
+    },
+    "t_tools": "Tools & Applications",
+    "tools": {
+      "1-1": "Microsoft- / Google-Office",
+      "1-2": "Photoshop",
+      "1-3": "VS Code / Visual Studio",
+      "1-4": "Unity",
+      "1-5": "Blender",
+      "2-1": "Sehr gute Kenntnisse",
+      "2-2": "Sehr gute Kenntnisse",
+      "2-3": "Sehr gute Kenntnisse",
+      "2-4": "Sehr gute Kenntnisse",
+      "2-5": "Gute Kenntnisse"
+    },
+    "text1": "Als Junior-Frontend-Entwickler wende ich die theoretischen Grundlagen funktionellen Designs an, um komplexe Benutzeroberflächen leicht verständlich und übersichtlich gestalten zu können. Ich habe bereits Benutzeroberflächen in C++ (bei Inform), C# (in Unity Projekten), Qt (für meinBachelor-Praxisprojekt), dart (für meine eigene flutter App) und Vue (für ein kleines Interdisziplinärprojekt) entwickelt, sowie weitere generelle Grundlagen im Laufe meines Studium mit HTML und php.<br /> Meine Zeit bei Inform GmbH hat mir Erfahrungen mitgegeben für den Berufsalltag, den Umgang mit großen Code-Solutions und das Design von Business-Software, mit einem größeren Fokus auf kompaktem Design und Workflow.",
+    "text2": "Ich arbeite strukturiert und gehe komplexe Aufgaben mit einer durchdachten Planung vor der Implementierung an. Ich bin lernfähig und motiviert, im Team Lösungen zu entwickeln. Als Frontend-Entwickler habe ich bereits bei der Zusammenarbeit mit Backend-Entwicklern positive Berufserfahrungen gemacht. Gerne bringe ich eigene Ideen ein, die Projekte bereits verbessert haben; die Entscheidungen überlasse ich dabei stets dem Team oder den Vorgesetzten. Außerdem spreche ich neben Deutsch auch fließend Englisch und kann in beiden Sprachen Dokumentationen und Designs erstellen, aber auch Vorträge und ausführliche Gespräche führen."
+  },
+
+  "projects": {
+    "t_projects": "Veröffentlichte Projekte",
+    "b_docScanner": "Play Store, Offline Document Scanner",
+    "b_website": "GitHub, Diese Webseite"
+  }
+}
