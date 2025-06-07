@@ -4,18 +4,14 @@
     <meta charset="utf-8" />
     <title>Redirecting...</title>
     <script>
-      // Extract the current path from the full URL
-      const path = window.location.pathname.replace(/^\/portfolio/, "");
+      // Get full path, query, and hash
+      const path = location.pathname.replace(/^\/portfolio/, "");
+      const search = location.search || "";
+      const hash = location.hash || "";
 
-      // Rebuild the correct URL including query and hash
-      const newUrl =
-        "/portfolio/index.html" +
-        path +
-        window.location.search +
-        window.location.hash;
-
-      // Redirect to that URL (which Vue router will handle)
-      window.location.replace(newUrl);
+      // Redirect to the base app entry + original path
+      const newUrl = "/portfolio/" + path + search + hash;
+      location.replace(newUrl);
     </script>
   </head>
   <body>
